@@ -1,0 +1,5 @@
+{
+    "DB":{
+        "Conn":"root:Eland123@tcp(120.27.157.9:3306)/hellodb?charset=utf8&parseTime=True&loc=UTC"
+    }
+}
